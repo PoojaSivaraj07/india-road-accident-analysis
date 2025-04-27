@@ -50,4 +50,18 @@ Targeted driving training programs for younger and mid-aged drivers.
 
 Immediate action plans for roads under construction.
 
+📚 Data Source
+
+Kaggle's India Road Accident Dataset Predictive Analysis dataset by Khushi Yadav.
+
+📞 Contact
+
+For any queries or collaborations, feel free to reach out:
+
+Email: spooja07122002@gmail.com
+
+GitHub: PoojaSivaraj07
+
+
+
 
