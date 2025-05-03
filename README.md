@@ -60,7 +60,7 @@ For any queries or collaborations, feel free to reach out:
 
 Email: spooja07122002@gmail.com
 
-GitHub: PoojaSivaraj07
+GitHub: [PoojaSivaraj07](https://github.com/PoojaSivaraj07)
 
 
 
